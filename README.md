@@ -1,2 +1,2 @@
-# Harvard-CS50-Projects
-This is what I have done when self-studying the Harvard CS50 course.
+# A simple scratch project...
+Go on https://scratch.mit.edu/ and click "file" to open.
