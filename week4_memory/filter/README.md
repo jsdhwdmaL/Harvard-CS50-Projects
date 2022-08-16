@@ -1,2 +1,2 @@
 # Usage:
-Type ```./filter -r image.bmp reflected.bmp``` in IDE
+Type ```./filter -r image.bmp reflected.bmp``` in terminal
